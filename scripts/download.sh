@@ -1,0 +1,14 @@
+wget https://aclanthology.org/2024.acl-long.pdf
+wget https://aclanthology.org/2022.acl-long.pdf
+wget https://aclanthology.org/2021.acl-long.pdf
+wget https://aclanthology.org/2020.acl-long.pdf
+wget https://aclanthology.org/P19-1.pdf
+wget https://aclanthology.org/P18-1.pdf
+wget https://aclanthology.org/P17-1.pdf
+wget https://aclanthology.org/P16-1.pdf
+wget https://aclanthology.org/P15-1.pdf
+wget https://aclanthology.org/P14-1.pdf
+wget https://aclanthology.org/P13-1.pdf
+wget https://aclanthology.org/P12-1.pdf
+wget https://aclanthology.org/P11-1.pdf
+wget https://aclanthology.org/P10-1.pdf
